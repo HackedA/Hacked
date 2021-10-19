@@ -1,0 +1,129 @@
+# File yang dikompilasi / dioptimalkan / DLL byte
+__pycache__ /
+* .py [ cod ]
+* $py.class
+
+# ekstensi C
+* .so
+
+# Distribusi / pengemasan
+.Python
+membangun /
+mengembangkan-telur /
+dist /
+unduhan /
+telur /
+.telur /
+lib /
+lib64 /
+bagian /
+berbeda /
+var /
+roda /
+pip-roda-metadata /
+berbagi / python-roda /
+* .telur-info /
+.install.cfg
+* .telur
+TAMPAK
+
+# PyInstaller
+#   Biasanya file-file ini ditulis oleh skrip python dari template
+#   sebelum PyInstaller membuat exe, untuk memasukkan tanggal/info lain ke dalamnya.
+* .manifest
+* .spesifikasi
+
+# Log penginstal
+pip-log.txt
+pip-hapus-direktori-ini.txt
+
+# Laporan pengujian / cakupan unit
+htmlcov /
+.tox /
+.nox /
+.liputan
+.liputan. *
+.cache
+hidungtests.xml
+cakupan.xml
+* .cover
+* .py, sampul
+.hipotesis /
+.pytest_cache /
+
+# Terjemahan
+* .mo
+* .pot
+
+# Barang Django:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Bahan botol:
+contoh /
+.webassets-cache
+
+# Hal-hal tergores:
+.scrapy
+
+# Dokumentasi Sphinx
+dokumen / _build /
+
+# PyBuilder
+sasaran /
+
+# Notebook Jupyter
+.ipynb_checkpoints
+
+# IPython
+profil_default /
+ipython_config.py
+
+# pyenv
+.python-versi
+
+# pipenv
+#    Menurut pypa/pipenv#598, disarankan untuk menyertakan Pipfile.lock dalam kontrol versi.
+#    Namun, dalam hal kolaborasi, jika memiliki dependensi atau dependensi khusus platform
+#    tidak memiliki dukungan lintas platform, pipenv dapat menginstal dependensi yang tidak berfungsi, atau tidak
+#    instal semua dependensi yang diperlukan.
+# Pipfile.lock
+
+# PEP 582; digunakan oleh misalnya github.com/David-OConnor/pyflow
+__pypackages__ /
+
+# Bahan seledri
+celerybeat-jadwal
+celerybeat.pid
+
+# File yang diuraikan SageMath
+* .sage.py
+
+# Lingkungan
+.env
+.venv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+
+# Pengaturan proyek Spyder
+.spyderproject
+.spyproject
+
+# Pengaturan proyek tali
+.ropeproject
+
+# dokumentasi mkdocs
+/ situs
+
+# mypy
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+# Pemeriksa jenis kayu bakar
+.pyre /
